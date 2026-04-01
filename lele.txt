@@ -1,1 +1,1 @@
-pipeline test with logs
+pipeline test wsdfith logs
